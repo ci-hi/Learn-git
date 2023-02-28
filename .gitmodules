@@ -1,0 +1,3 @@
+[submodule "learn-github-cli"]
+	path = learn-github-cli
+	url = https://github.com/Soltus/learn-github-cli.git
